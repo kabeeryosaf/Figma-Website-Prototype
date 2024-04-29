@@ -1,7 +1,5 @@
 # Figma-Website-Prototype
 
-![Uploading image.png…]()
-
 Welcome to the repository of my Figma website prototype. This project is a testament to the power of Figma in designing and prototyping modern web interfaces. Whether you're a designer looking for inspiration or a developer seeking to implement a design, this prototype is here to help.
 
 ## Table of Contents
