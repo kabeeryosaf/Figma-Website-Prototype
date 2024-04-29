@@ -43,6 +43,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-[chkabeer20@gmail.com]chkabeer20@gmail.com
+chkabeer20@gmail.com
 
 Project Link: [https://github.com/kabeeryosaf/Figma-Website-Prototype](https://github.com/kabeeryosaf/Figma-Website-Prototype)
