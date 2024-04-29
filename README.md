@@ -1,6 +1,6 @@
 # Figma-Website-Prototype
 
-![Figma Website Prototype](https://path-to-your-image/prototype-preview.png)
+![Figma Website Prototype](https://ibb.co/j68Y8rb))
 
 Welcome to the repository of my Figma website prototype. This project is a testament to the power of Figma in designing and prototyping modern web interfaces. Whether you're a designer looking for inspiration or a developer seeking to implement a design, this prototype is here to help.
 
@@ -43,8 +43,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+[chkabeer20@gmail.com]chkabeer20@gmail.com
 
-Project Link: [https://github.com/yourusername/figma-website-prototype](https://github.com/yourusername/figma-website-prototype)
-
-Figma Prototype Link: [https://www.figma.com/file/your-prototype-id](https://www.figma.com/file/your-prototype-id)
+Project Link: [https://github.com/kabeeryosaf/Figma-Website-Prototype](https://github.com/kabeeryosaf/Figma-Website-Prototype)
